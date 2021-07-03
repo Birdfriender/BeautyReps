@@ -15,8 +15,16 @@ _G.BeautyReps = {
 					name = "Court of Night",
 				},
 				{
+					factionID = 2470,
+					name = "Death's Advance",
+				},
+				{
 					factionID = 2463,
 					name = "Marasmius",
+				},
+				{
+					factionID = 2472,
+					name = "The Archivists' Codex",
 				},
 				{
 					factionID = 2407,
